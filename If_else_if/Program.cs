@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace deneme
+namespace if_else_if
 {
     internal class Program
     {

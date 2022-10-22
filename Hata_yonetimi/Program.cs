@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace deneme
+namespace hata_yonetimi
 {
     internal class Program
     {

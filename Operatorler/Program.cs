@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace degisken
+namespace operatorler
 {
     class Program
 	{
