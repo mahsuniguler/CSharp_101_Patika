@@ -1,0 +1,15 @@
+C:\Users\Mahsuni\Desktop\Csharp_101\Hata_yonetimi\Csharp_Hata_yonetimi\bin\Debug\net6.0\Csharp_Hata_yonetimi.exe
+C:\Users\Mahsuni\Desktop\Csharp_101\Hata_yonetimi\Csharp_Hata_yonetimi\bin\Debug\net6.0\Csharp_Hata_yonetimi.deps.json
+C:\Users\Mahsuni\Desktop\Csharp_101\Hata_yonetimi\Csharp_Hata_yonetimi\bin\Debug\net6.0\Csharp_Hata_yonetimi.runtimeconfig.json
+C:\Users\Mahsuni\Desktop\Csharp_101\Hata_yonetimi\Csharp_Hata_yonetimi\bin\Debug\net6.0\Csharp_Hata_yonetimi.dll
+C:\Users\Mahsuni\Desktop\Csharp_101\Hata_yonetimi\Csharp_Hata_yonetimi\bin\Debug\net6.0\Csharp_Hata_yonetimi.pdb
+C:\Users\Mahsuni\Desktop\Csharp_101\Hata_yonetimi\Csharp_Hata_yonetimi\obj\Debug\net6.0\Csharp_Hata_yonetimi.csproj.AssemblyReference.cache
+C:\Users\Mahsuni\Desktop\Csharp_101\Hata_yonetimi\Csharp_Hata_yonetimi\obj\Debug\net6.0\Csharp_Hata_yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahsuni\Desktop\Csharp_101\Hata_yonetimi\Csharp_Hata_yonetimi\obj\Debug\net6.0\Csharp_Hata_yonetimi.AssemblyInfoInputs.cache
+C:\Users\Mahsuni\Desktop\Csharp_101\Hata_yonetimi\Csharp_Hata_yonetimi\obj\Debug\net6.0\Csharp_Hata_yonetimi.AssemblyInfo.cs
+C:\Users\Mahsuni\Desktop\Csharp_101\Hata_yonetimi\Csharp_Hata_yonetimi\obj\Debug\net6.0\Csharp_Hata_yonetimi.csproj.CoreCompileInputs.cache
+C:\Users\Mahsuni\Desktop\Csharp_101\Hata_yonetimi\Csharp_Hata_yonetimi\obj\Debug\net6.0\Csharp_Hata_yonetimi.dll
+C:\Users\Mahsuni\Desktop\Csharp_101\Hata_yonetimi\Csharp_Hata_yonetimi\obj\Debug\net6.0\refint\Csharp_Hata_yonetimi.dll
+C:\Users\Mahsuni\Desktop\Csharp_101\Hata_yonetimi\Csharp_Hata_yonetimi\obj\Debug\net6.0\Csharp_Hata_yonetimi.pdb
+C:\Users\Mahsuni\Desktop\Csharp_101\Hata_yonetimi\Csharp_Hata_yonetimi\obj\Debug\net6.0\Csharp_Hata_yonetimi.genruntimeconfig.cache
+C:\Users\Mahsuni\Desktop\Csharp_101\Hata_yonetimi\Csharp_Hata_yonetimi\obj\Debug\net6.0\ref\Csharp_Hata_yonetimi.dll

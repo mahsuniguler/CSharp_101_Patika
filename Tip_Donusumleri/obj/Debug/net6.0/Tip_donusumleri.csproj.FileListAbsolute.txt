@@ -1,0 +1,15 @@
+C:\Users\Mahsuni\Desktop\Csharp_101\Tip_donusumleri\bin\Debug\net6.0\Tip_donusumleri.exe
+C:\Users\Mahsuni\Desktop\Csharp_101\Tip_donusumleri\bin\Debug\net6.0\Tip_donusumleri.deps.json
+C:\Users\Mahsuni\Desktop\Csharp_101\Tip_donusumleri\bin\Debug\net6.0\Tip_donusumleri.runtimeconfig.json
+C:\Users\Mahsuni\Desktop\Csharp_101\Tip_donusumleri\bin\Debug\net6.0\Tip_donusumleri.dll
+C:\Users\Mahsuni\Desktop\Csharp_101\Tip_donusumleri\bin\Debug\net6.0\Tip_donusumleri.pdb
+C:\Users\Mahsuni\Desktop\Csharp_101\Tip_donusumleri\obj\Debug\net6.0\Tip_donusumleri.csproj.AssemblyReference.cache
+C:\Users\Mahsuni\Desktop\Csharp_101\Tip_donusumleri\obj\Debug\net6.0\Tip_donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahsuni\Desktop\Csharp_101\Tip_donusumleri\obj\Debug\net6.0\Tip_donusumleri.AssemblyInfoInputs.cache
+C:\Users\Mahsuni\Desktop\Csharp_101\Tip_donusumleri\obj\Debug\net6.0\Tip_donusumleri.AssemblyInfo.cs
+C:\Users\Mahsuni\Desktop\Csharp_101\Tip_donusumleri\obj\Debug\net6.0\Tip_donusumleri.csproj.CoreCompileInputs.cache
+C:\Users\Mahsuni\Desktop\Csharp_101\Tip_donusumleri\obj\Debug\net6.0\Tip_donusumleri.dll
+C:\Users\Mahsuni\Desktop\Csharp_101\Tip_donusumleri\obj\Debug\net6.0\refint\Tip_donusumleri.dll
+C:\Users\Mahsuni\Desktop\Csharp_101\Tip_donusumleri\obj\Debug\net6.0\Tip_donusumleri.pdb
+C:\Users\Mahsuni\Desktop\Csharp_101\Tip_donusumleri\obj\Debug\net6.0\Tip_donusumleri.genruntimeconfig.cache
+C:\Users\Mahsuni\Desktop\Csharp_101\Tip_donusumleri\obj\Debug\net6.0\ref\Tip_donusumleri.dll
