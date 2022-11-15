@@ -1,0 +1,15 @@
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Donguler_for_break_ve_continue\bin\Debug\net7.0\Donguler_for_break_ve_continue.exe
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Donguler_for_break_ve_continue\bin\Debug\net7.0\Donguler_for_break_ve_continue.deps.json
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Donguler_for_break_ve_continue\bin\Debug\net7.0\Donguler_for_break_ve_continue.runtimeconfig.json
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Donguler_for_break_ve_continue\bin\Debug\net7.0\Donguler_for_break_ve_continue.dll
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Donguler_for_break_ve_continue\bin\Debug\net7.0\Donguler_for_break_ve_continue.pdb
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Donguler_for_break_ve_continue\obj\Debug\net7.0\Donguler_for_break_ve_continue.csproj.AssemblyReference.cache
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Donguler_for_break_ve_continue\obj\Debug\net7.0\Donguler_for_break_ve_continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Donguler_for_break_ve_continue\obj\Debug\net7.0\Donguler_for_break_ve_continue.AssemblyInfoInputs.cache
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Donguler_for_break_ve_continue\obj\Debug\net7.0\Donguler_for_break_ve_continue.AssemblyInfo.cs
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Donguler_for_break_ve_continue\obj\Debug\net7.0\Donguler_for_break_ve_continue.csproj.CoreCompileInputs.cache
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Donguler_for_break_ve_continue\obj\Debug\net7.0\Donguler_for_break_ve_continue.dll
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Donguler_for_break_ve_continue\obj\Debug\net7.0\refint\Donguler_for_break_ve_continue.dll
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Donguler_for_break_ve_continue\obj\Debug\net7.0\Donguler_for_break_ve_continue.pdb
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Donguler_for_break_ve_continue\obj\Debug\net7.0\Donguler_for_break_ve_continue.genruntimeconfig.cache
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Donguler_for_break_ve_continue\obj\Debug\net7.0\ref\Donguler_for_break_ve_continue.dll

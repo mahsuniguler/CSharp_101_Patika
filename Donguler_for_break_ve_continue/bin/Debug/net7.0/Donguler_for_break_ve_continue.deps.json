@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Donguler_for_break_ve_continue/1.0.0": {
+        "runtime": {
+          "Donguler_for_break_ve_continue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Donguler_for_break_ve_continue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
