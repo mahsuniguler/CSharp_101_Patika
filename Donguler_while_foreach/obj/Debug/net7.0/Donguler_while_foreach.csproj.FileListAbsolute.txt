@@ -1,0 +1,15 @@
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Donguler_while_foreach\bin\Debug\net7.0\Donguler_while_foreach.exe
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Donguler_while_foreach\bin\Debug\net7.0\Donguler_while_foreach.deps.json
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Donguler_while_foreach\bin\Debug\net7.0\Donguler_while_foreach.runtimeconfig.json
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Donguler_while_foreach\bin\Debug\net7.0\Donguler_while_foreach.dll
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Donguler_while_foreach\bin\Debug\net7.0\Donguler_while_foreach.pdb
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Donguler_while_foreach\obj\Debug\net7.0\Donguler_while_foreach.csproj.AssemblyReference.cache
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Donguler_while_foreach\obj\Debug\net7.0\Donguler_while_foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Donguler_while_foreach\obj\Debug\net7.0\Donguler_while_foreach.AssemblyInfoInputs.cache
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Donguler_while_foreach\obj\Debug\net7.0\Donguler_while_foreach.AssemblyInfo.cs
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Donguler_while_foreach\obj\Debug\net7.0\Donguler_while_foreach.csproj.CoreCompileInputs.cache
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Donguler_while_foreach\obj\Debug\net7.0\Donguler_while_foreach.dll
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Donguler_while_foreach\obj\Debug\net7.0\refint\Donguler_while_foreach.dll
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Donguler_while_foreach\obj\Debug\net7.0\Donguler_while_foreach.pdb
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Donguler_while_foreach\obj\Debug\net7.0\Donguler_while_foreach.genruntimeconfig.cache
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Donguler_while_foreach\obj\Debug\net7.0\ref\Donguler_while_foreach.dll
