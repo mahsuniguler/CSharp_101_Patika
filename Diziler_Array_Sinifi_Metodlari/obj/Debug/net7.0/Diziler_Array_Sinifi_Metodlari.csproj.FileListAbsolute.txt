@@ -1,0 +1,15 @@
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Diziler_Array_Sinifi_Metodlari\bin\Debug\net7.0\Diziler_Array_Sinifi_Metodlari.exe
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Diziler_Array_Sinifi_Metodlari\bin\Debug\net7.0\Diziler_Array_Sinifi_Metodlari.deps.json
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Diziler_Array_Sinifi_Metodlari\bin\Debug\net7.0\Diziler_Array_Sinifi_Metodlari.runtimeconfig.json
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Diziler_Array_Sinifi_Metodlari\bin\Debug\net7.0\Diziler_Array_Sinifi_Metodlari.dll
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Diziler_Array_Sinifi_Metodlari\bin\Debug\net7.0\Diziler_Array_Sinifi_Metodlari.pdb
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Diziler_Array_Sinifi_Metodlari\obj\Debug\net7.0\Diziler_Array_Sinifi_Metodlari.csproj.AssemblyReference.cache
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Diziler_Array_Sinifi_Metodlari\obj\Debug\net7.0\Diziler_Array_Sinifi_Metodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Diziler_Array_Sinifi_Metodlari\obj\Debug\net7.0\Diziler_Array_Sinifi_Metodlari.AssemblyInfoInputs.cache
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Diziler_Array_Sinifi_Metodlari\obj\Debug\net7.0\Diziler_Array_Sinifi_Metodlari.AssemblyInfo.cs
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Diziler_Array_Sinifi_Metodlari\obj\Debug\net7.0\Diziler_Array_Sinifi_Metodlari.csproj.CoreCompileInputs.cache
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Diziler_Array_Sinifi_Metodlari\obj\Debug\net7.0\Diziler_Array_Sinifi_Metodlari.dll
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Diziler_Array_Sinifi_Metodlari\obj\Debug\net7.0\refint\Diziler_Array_Sinifi_Metodlari.dll
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Diziler_Array_Sinifi_Metodlari\obj\Debug\net7.0\Diziler_Array_Sinifi_Metodlari.pdb
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Diziler_Array_Sinifi_Metodlari\obj\Debug\net7.0\Diziler_Array_Sinifi_Metodlari.genruntimeconfig.cache
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Diziler_Array_Sinifi_Metodlari\obj\Debug\net7.0\ref\Diziler_Array_Sinifi_Metodlari.dll
