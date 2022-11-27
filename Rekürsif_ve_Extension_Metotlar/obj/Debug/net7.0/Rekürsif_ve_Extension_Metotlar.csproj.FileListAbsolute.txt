@@ -1,0 +1,15 @@
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Rekürsif_ve_Extension_Metotlar\bin\Debug\net7.0\Rekürsif_ve_Extension_Metotlar.exe
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Rekürsif_ve_Extension_Metotlar\bin\Debug\net7.0\Rekürsif_ve_Extension_Metotlar.deps.json
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Rekürsif_ve_Extension_Metotlar\bin\Debug\net7.0\Rekürsif_ve_Extension_Metotlar.runtimeconfig.json
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Rekürsif_ve_Extension_Metotlar\bin\Debug\net7.0\Rekürsif_ve_Extension_Metotlar.dll
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Rekürsif_ve_Extension_Metotlar\bin\Debug\net7.0\Rekürsif_ve_Extension_Metotlar.pdb
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Rekürsif_ve_Extension_Metotlar\obj\Debug\net7.0\Rekürsif_ve_Extension_Metotlar.csproj.AssemblyReference.cache
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Rekürsif_ve_Extension_Metotlar\obj\Debug\net7.0\Rekürsif_ve_Extension_Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Rekürsif_ve_Extension_Metotlar\obj\Debug\net7.0\Rekürsif_ve_Extension_Metotlar.AssemblyInfoInputs.cache
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Rekürsif_ve_Extension_Metotlar\obj\Debug\net7.0\Rekürsif_ve_Extension_Metotlar.AssemblyInfo.cs
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Rekürsif_ve_Extension_Metotlar\obj\Debug\net7.0\Rekürsif_ve_Extension_Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Rekürsif_ve_Extension_Metotlar\obj\Debug\net7.0\Rekürsif_ve_Extension_Metotlar.dll
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Rekürsif_ve_Extension_Metotlar\obj\Debug\net7.0\refint\Rekürsif_ve_Extension_Metotlar.dll
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Rekürsif_ve_Extension_Metotlar\obj\Debug\net7.0\Rekürsif_ve_Extension_Metotlar.pdb
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Rekürsif_ve_Extension_Metotlar\obj\Debug\net7.0\Rekürsif_ve_Extension_Metotlar.genruntimeconfig.cache
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Rekürsif_ve_Extension_Metotlar\obj\Debug\net7.0\ref\Rekürsif_ve_Extension_Metotlar.dll
