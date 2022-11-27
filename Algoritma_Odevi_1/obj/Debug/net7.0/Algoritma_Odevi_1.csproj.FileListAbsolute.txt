@@ -1,0 +1,15 @@
+C:\Users\Mahsuni\Desktop\Algoritma_Odevi_1\bin\Debug\net7.0\Algoritma_Odevi_1.exe
+C:\Users\Mahsuni\Desktop\Algoritma_Odevi_1\bin\Debug\net7.0\Algoritma_Odevi_1.deps.json
+C:\Users\Mahsuni\Desktop\Algoritma_Odevi_1\bin\Debug\net7.0\Algoritma_Odevi_1.runtimeconfig.json
+C:\Users\Mahsuni\Desktop\Algoritma_Odevi_1\bin\Debug\net7.0\Algoritma_Odevi_1.dll
+C:\Users\Mahsuni\Desktop\Algoritma_Odevi_1\bin\Debug\net7.0\Algoritma_Odevi_1.pdb
+C:\Users\Mahsuni\Desktop\Algoritma_Odevi_1\obj\Debug\net7.0\Algoritma_Odevi_1.csproj.AssemblyReference.cache
+C:\Users\Mahsuni\Desktop\Algoritma_Odevi_1\obj\Debug\net7.0\Algoritma_Odevi_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahsuni\Desktop\Algoritma_Odevi_1\obj\Debug\net7.0\Algoritma_Odevi_1.AssemblyInfoInputs.cache
+C:\Users\Mahsuni\Desktop\Algoritma_Odevi_1\obj\Debug\net7.0\Algoritma_Odevi_1.AssemblyInfo.cs
+C:\Users\Mahsuni\Desktop\Algoritma_Odevi_1\obj\Debug\net7.0\Algoritma_Odevi_1.csproj.CoreCompileInputs.cache
+C:\Users\Mahsuni\Desktop\Algoritma_Odevi_1\obj\Debug\net7.0\Algoritma_Odevi_1.dll
+C:\Users\Mahsuni\Desktop\Algoritma_Odevi_1\obj\Debug\net7.0\refint\Algoritma_Odevi_1.dll
+C:\Users\Mahsuni\Desktop\Algoritma_Odevi_1\obj\Debug\net7.0\Algoritma_Odevi_1.pdb
+C:\Users\Mahsuni\Desktop\Algoritma_Odevi_1\obj\Debug\net7.0\Algoritma_Odevi_1.genruntimeconfig.cache
+C:\Users\Mahsuni\Desktop\Algoritma_Odevi_1\obj\Debug\net7.0\ref\Algoritma_Odevi_1.dll
