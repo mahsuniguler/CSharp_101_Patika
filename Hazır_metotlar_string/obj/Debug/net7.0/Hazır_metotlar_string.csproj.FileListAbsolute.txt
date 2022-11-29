@@ -1,0 +1,15 @@
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Hazır_metotlar_string\bin\Debug\net7.0\Hazır_metotlar_string.exe
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Hazır_metotlar_string\bin\Debug\net7.0\Hazır_metotlar_string.deps.json
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Hazır_metotlar_string\bin\Debug\net7.0\Hazır_metotlar_string.runtimeconfig.json
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Hazır_metotlar_string\bin\Debug\net7.0\Hazır_metotlar_string.dll
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Hazır_metotlar_string\bin\Debug\net7.0\Hazır_metotlar_string.pdb
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Hazır_metotlar_string\obj\Debug\net7.0\Hazır_metotlar_string.csproj.AssemblyReference.cache
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Hazır_metotlar_string\obj\Debug\net7.0\Hazır_metotlar_string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Hazır_metotlar_string\obj\Debug\net7.0\Hazır_metotlar_string.AssemblyInfoInputs.cache
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Hazır_metotlar_string\obj\Debug\net7.0\Hazır_metotlar_string.AssemblyInfo.cs
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Hazır_metotlar_string\obj\Debug\net7.0\Hazır_metotlar_string.csproj.CoreCompileInputs.cache
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Hazır_metotlar_string\obj\Debug\net7.0\Hazır_metotlar_string.dll
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Hazır_metotlar_string\obj\Debug\net7.0\refint\Hazır_metotlar_string.dll
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Hazır_metotlar_string\obj\Debug\net7.0\Hazır_metotlar_string.pdb
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Hazır_metotlar_string\obj\Debug\net7.0\Hazır_metotlar_string.genruntimeconfig.cache
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Hazır_metotlar_string\obj\Debug\net7.0\ref\Hazır_metotlar_string.dll
