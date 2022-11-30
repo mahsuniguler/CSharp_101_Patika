@@ -1,0 +1,15 @@
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Hazır_metotlar_datetime_and_math\bin\Debug\net7.0\Hazır_metotlar_datetime_and_math.exe
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Hazır_metotlar_datetime_and_math\bin\Debug\net7.0\Hazır_metotlar_datetime_and_math.deps.json
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Hazır_metotlar_datetime_and_math\bin\Debug\net7.0\Hazır_metotlar_datetime_and_math.runtimeconfig.json
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Hazır_metotlar_datetime_and_math\bin\Debug\net7.0\Hazır_metotlar_datetime_and_math.dll
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Hazır_metotlar_datetime_and_math\bin\Debug\net7.0\Hazır_metotlar_datetime_and_math.pdb
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Hazır_metotlar_datetime_and_math\obj\Debug\net7.0\Hazır_metotlar_datetime_and_math.csproj.AssemblyReference.cache
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Hazır_metotlar_datetime_and_math\obj\Debug\net7.0\Hazır_metotlar_datetime_and_math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Hazır_metotlar_datetime_and_math\obj\Debug\net7.0\Hazır_metotlar_datetime_and_math.AssemblyInfoInputs.cache
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Hazır_metotlar_datetime_and_math\obj\Debug\net7.0\Hazır_metotlar_datetime_and_math.AssemblyInfo.cs
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Hazır_metotlar_datetime_and_math\obj\Debug\net7.0\Hazır_metotlar_datetime_and_math.csproj.CoreCompileInputs.cache
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Hazır_metotlar_datetime_and_math\obj\Debug\net7.0\Hazır_metotlar_datetime_and_math.dll
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Hazır_metotlar_datetime_and_math\obj\Debug\net7.0\refint\Hazır_metotlar_datetime_and_math.dll
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Hazır_metotlar_datetime_and_math\obj\Debug\net7.0\Hazır_metotlar_datetime_and_math.pdb
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Hazır_metotlar_datetime_and_math\obj\Debug\net7.0\Hazır_metotlar_datetime_and_math.genruntimeconfig.cache
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Hazır_metotlar_datetime_and_math\obj\Debug\net7.0\ref\Hazır_metotlar_datetime_and_math.dll

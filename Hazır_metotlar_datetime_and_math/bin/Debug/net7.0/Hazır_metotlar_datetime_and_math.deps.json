@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Hazır_metotlar_datetime_and_math/1.0.0": {
+        "runtime": {
+          "Hazır_metotlar_datetime_and_math.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hazır_metotlar_datetime_and_math/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
