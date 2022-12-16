@@ -1,0 +1,15 @@
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Generic_list\bin\Debug\net7.0\Generic_list.exe
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Generic_list\bin\Debug\net7.0\Generic_list.deps.json
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Generic_list\bin\Debug\net7.0\Generic_list.runtimeconfig.json
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Generic_list\bin\Debug\net7.0\Generic_list.dll
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Generic_list\bin\Debug\net7.0\Generic_list.pdb
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Generic_list\obj\Debug\net7.0\Generic_list.csproj.AssemblyReference.cache
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Generic_list\obj\Debug\net7.0\Generic_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Generic_list\obj\Debug\net7.0\Generic_list.AssemblyInfoInputs.cache
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Generic_list\obj\Debug\net7.0\Generic_list.AssemblyInfo.cs
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Generic_list\obj\Debug\net7.0\Generic_list.csproj.CoreCompileInputs.cache
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Generic_list\obj\Debug\net7.0\Generic_list.dll
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Generic_list\obj\Debug\net7.0\refint\Generic_list.dll
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Generic_list\obj\Debug\net7.0\Generic_list.pdb
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Generic_list\obj\Debug\net7.0\Generic_list.genruntimeconfig.cache
+C:\Users\Mahsuni\Desktop\C#_101_Patika\Generic_list\obj\Debug\net7.0\ref\Generic_list.dll
